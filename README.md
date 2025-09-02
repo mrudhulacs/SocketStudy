@@ -104,14 +104,13 @@ c.close()
 
 
 ### client.py
-<img width="454" height="88" alt="image" src="https://github.com/user-attachments/assets/014418f3-ecd0-4fc2-9e6f-013f30491046" />
-
+<img width="779" height="269" alt="image" src="https://github.com/user-attachments/assets/cd6780f0-0b0e-44f4-836b-d448e1ec6d89" />
 
 
 
 
 ### server.py
-<img width="457" height="115" alt="image" src="https://github.com/user-attachments/assets/0fa880da-5512-4750-b339-9ba164601c94" />
+<img width="760" height="340" alt="image" src="https://github.com/user-attachments/assets/c223a2fa-9d62-4b7e-8a42-baf66282d1d6" />
 
 
 
